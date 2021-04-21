@@ -54,7 +54,7 @@
         {
           "name": "cardinal-barcode",
           "type": "smartClone",
-          "src": "https://github.com/webcardinal/cardinal-barcode",
+          "src": "https://github.com/mrk-digital-fingerprint/cardinal-barcode",
           "target": "./.webcardinal/components",
           "collectLog": false
         }
@@ -162,7 +162,7 @@
         {
           "name": "cardinal-barcode",
           "type": "smartClone",
-          "src": "https://github.com/webcardinal/cardinal-barcode",
+          "src": "https://github.com/mrk-digital-fingerprint/cardinal-barcode",
           "target": "./.webcardinal/components",
           "collectLog": false
         }
@@ -407,7 +407,7 @@
         {
           "name": "cardinal-barcode",
           "type": "smartClone",
-          "src": "https://github.com/webcardinal/cardinal-barcode",
+          "src": "https://github.com/mrk-digital-fingerprint/cardinal-barcode",
           "target": "./.webcardinal/components",
           "collectLog": false
         }
